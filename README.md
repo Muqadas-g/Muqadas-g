@@ -2,7 +2,7 @@
 
 ## 🌟 About Me
 
-Hi, I’m **Muqaddas Imtiaz** — a passionate Web Developer & Data Science student from Pakistan, currently interning as a Web Developer at **Core Tech Innovations Company**.  
+Hi, I’m **Muqaddas Imtiaz** — a passionate Web Developer & Data Science student from Quest nawabshah Sindh Pakistan.
 I specialize in creating clean, responsive websites using **HTML5, CSS3, and JavaScript**, and I have solid foundation in **Python, Java, C, and MySQL**. I believe in developing user-centric applications with elegance and efficiency.  
 2
 
